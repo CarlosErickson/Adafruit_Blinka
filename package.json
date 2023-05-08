@@ -1,0 +1,9 @@
+{
+  "urls": [
+    ["src/", "github:CarlosErickson/Adafruit_Blinka/src"],
+  ],
+  "deps": [
+    ["Adafruit-Blinka", "latest"],
+  ],
+  "version": "0.1"
+}
